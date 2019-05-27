@@ -2,8 +2,8 @@
 Code While You Talk. Just say what you want to code and CoYoTa will do the rest for you. For example: just say "Create a variable alpha with value 10" and CoYoTa will create a variable with a name alpha and initialise it with value 10.  
 
 
-Please see the demo video here : 
-Or view the PDF here : 
+Please see the demo video here : https://github.com/Akshay-911/Co-Yo-Ta/blob/master/final.mp4
+Or view the PDF here : https://github.com/Akshay-911/Co-Yo-Ta/blob/master/CoYoTa(1).pdf
 
 ### How to run?  
 ```  
